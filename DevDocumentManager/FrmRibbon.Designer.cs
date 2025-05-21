@@ -269,6 +269,7 @@
             this.Controls.Add(this.xTabPages);
             this.Controls.Add(this.navBarControl1);
             this.Controls.Add(this.ribbonControl1);
+            this.IconOptions.Image = ((System.Drawing.Image)(resources.GetObject("FrmRibbon.IconOptions.Image")));
             this.Name = "FrmRibbon";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmRibbon";

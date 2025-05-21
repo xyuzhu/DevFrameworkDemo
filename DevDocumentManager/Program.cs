@@ -15,7 +15,7 @@ namespace DevDocumentManager {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmRibbon());
+            Application.Run(new FrmLogin());
         }
     }
 }
